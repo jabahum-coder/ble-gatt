@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/localhost/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/a123/AndroidStudioProjects/ble-gatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/localhost/.gradle/caches/transforms-2/files-2.1/c415c7f83ff4d82728460e25c59a3448/res/values-v23/values-v23.xml",
+                    "source": "/Users/a123/.gradle/caches/transforms-2/files-2.1/59c85666535616d012d8975ca3b01ce0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/localhost/.gradle/caches/transforms-2/files-2.1/580b0f53d14119a188fbd1009b106d92/res/values-v23/values-v23.xml",
+                    "source": "/Users/a123/.gradle/caches/transforms-2/files-2.1/5efd2a1d22e85cd3e2dc93832bf11937/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

@@ -1,4 +1,4 @@
-#Tue Aug 31 15:05:45 EAT 2021
-base.0=/home/localhost/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/dex/debug/mergeDexDebug/out
+#Fri Sep 10 10:23:47 EAT 2021
+base.0=/Users/a123/AndroidStudioProjects/ble-gatt/Application/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex

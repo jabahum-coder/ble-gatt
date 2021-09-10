@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/localhost/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+            "outputFile": "/Users/a123/AndroidStudioProjects/ble-gatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "/home/localhost/.gradle/caches/transforms-2/files-2.1/580b0f53d14119a188fbd1009b106d92/res/values-v25/values-v25.xml",
+                    "source": "/Users/a123/.gradle/caches/transforms-2/files-2.1/5efd2a1d22e85cd3e2dc93832bf11937/res/values-v25/values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",
